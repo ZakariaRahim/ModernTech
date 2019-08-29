@@ -1,1 +1,67 @@
+body{
+background-color: #ccc;
+margin:50px;
+}
+header{
+margin: 20px;
+}
+
+
+#logo{
+    float: left;
+    background-color: green;
+    border-radius: 10px;
+    color: white;
+    font-weight: 20px;
+    padding: 5px;
+    display: block;
+    margin: 10px;
+
+}
+
+#nav{
+    float: left;
+
+}
+
+#nav ul li{
+    display: inline;
+    padding: 5px;
+    font-size: 15px;
+}
+
+#nav ul li a{
+    text-decoration: none;
+    padding: 10px;
+    border-bottom: 2px solid green;
+    color: white;
+}
+
+#nav ul li a:hover{
+    text-decoration: none;
+    padding: 10px;
+    border: 2px solid green;
+    border-radius: 10px;
+    color: white;
+}
+
+.content{
+    padding-top: 20px;
+    clear: both;
+    background-image: url("images/consult.jpg");
+    /* background-color: red; */
+    height: 500px;;
+    width: 100%;
+    background-size: cover;
+    /* background-repeat:round; */
+}
+
+
+footer {
+    background-color:burlywood;
+    min-height: 50px;
+    text-align: center;
+    color: white;
+}
+
 
