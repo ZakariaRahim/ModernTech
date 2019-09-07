@@ -1,5 +1,5 @@
 body{
-background-color: #ccc;
+background-color: black;
 margin:50px;
 }
 header{
@@ -48,7 +48,7 @@ margin: 20px;
 .content{
     padding-top: 20px;
     clear: both;
-    background-image: url("images/consult.jpg");
+    background-image: url("images/consult.png");
     /* background-color: red; */
     height: 500px;;
     width: 100%;
